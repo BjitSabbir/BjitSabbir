@@ -1,3 +1,8 @@
+<img src ="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" alt="sabbir banner" width =100%/>
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working at BJIT As a trainee MERN stack developer<br>👯 I’m looking to collaborate on interesting projects and ideas<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about anything<br>⚡ Fun fact I can sing
 
